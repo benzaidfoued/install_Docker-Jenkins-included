@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script tested on RHEL/Centos And Ubuntu
+# Script tested on RHEL/Centos And Ubuntu .Use Yum in RHEL/Centos based Distributions
 
 # install docker
 apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D
